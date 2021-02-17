@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JardiWall</string>
+    <string name="clique_ici">Clique ici</string>
+    <string name="off">Off</string>
+    <string name="on">On</string>
+    <string name="lucasmax">Lucas et Max</string>
+    <string name="jet_d_eau">Jet eau</string>
+    <string name="lumi_re">Lumière</string>
+</resources>
