@@ -32,6 +32,9 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
+    //kmjoj
+
+
     void switchOnOff(){
         if(on==1){
             btn_clique.setText("on");
